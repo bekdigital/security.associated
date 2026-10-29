@@ -1,0 +1,6 @@
+{
+  "name": "ОсОО «Security Associated» — Охранная компания",
+  "description": "Официальный сайт охранной компании ОсОО «Security Associated» (Бишкек, Кыргызстан). Профессиональная безопасность с 2006 года: физическая охрана, ГБР 24/7, видеонаблюдение, GPS-мониторинг, сертифицированное обучение.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
